@@ -718,6 +718,7 @@ body {
 .healthcare__items {
   display: flex;
   /* gap: 72px; */
+  margin-bottom: 70px;
 }
 
 .healthcare__column {
@@ -820,6 +821,7 @@ body {
 
   .healthcare__items {
     flex-direction: column;
+    gap: 10px;
   }
   .healthcare-column:not(:last-child) {
     margin: 0px 0px 25px 0px;
@@ -841,6 +843,7 @@ body {
   row-gap: 20px;
   justify-content: center;
   align-items: center;
+  
 }
 
 .footer__item {
